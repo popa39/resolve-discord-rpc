@@ -1,0 +1,1 @@
+# resolve-discord-rpc
